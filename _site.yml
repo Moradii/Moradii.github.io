@@ -1,12 +1,16 @@
-name: "Mehdi"
+name: "Mehdi Moradi"
 output_dir: "."
 navbar:
-  title: "Retrieve and process satellite images time series towards data analysis in R"
+  title: "Mehdi Moradi"
   left:
-    - text: "Part I (Manuel)"
-      href:  PartII.html
-    - text: "Part II (Mehdi)"
-      href: PartII.html
+    - text: "About"
+      href:
+    - text: "Publication"
+      href:
+    - text: "Workshop"
+      href:  workshops.html
+    - text: "R packages"
+      href: 
 output:
   html_document:
     theme: paper
