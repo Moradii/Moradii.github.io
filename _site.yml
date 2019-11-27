@@ -4,9 +4,9 @@ navbar:
   title: "Retrieve and process satellite images time series towards data analysis in R"
   left:
     - text: "Part I (Manuel)"
-      href:  GeoMundus-2019-Part-II.html
+      href:  PartII.html
     - text: "Part II (Mehdi)"
-      href: GeoMundus-2019-Part-II.html
+      href: PartII.html
 output:
   html_document:
     theme: paper
