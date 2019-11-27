@@ -1,0 +1,12 @@
+name: "Mehdi"
+output_dir: "."
+navbar:
+  title: "Retrieve and process satellite images time series towards data analysis in R"
+  left:
+    - text: "Part I (Manuel)"
+      href:
+    - text: "Part II (Mehdi)"
+      href:
+output:
+  html_document:
+    theme: paper
